@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/LENOVO/Desktop/UCSD ToolBox/week4/BinarySearch.cpp
+iostream
+-
+cstdlib
+-
+
+C:/Users/LENOVO/Desktop/UCSD ToolBox/week4/Majority Element.cpp
+iostream
+-
+cstdlib
+-
+
